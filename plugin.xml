@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<plugin id="cordova-plugin-cocoapod-support" version="1.2.8" xmlns="http://apache.org/cordova/ns/plugins/1.0">
+<plugin id="template-plugin" version="1.2.8" xmlns="http://apache.org/cordova/ns/plugins/1.0">
     <name>Plugin Template</name>
     <author>Plugin Template</author>
     <description>Template</description>
