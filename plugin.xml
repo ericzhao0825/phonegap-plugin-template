@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<plugin id="cordova-plugin-cocoapod-support" version="1.2.8" xmlns="http://apache.org/cordova/ns/plugins/1.0">
+    <name>Plugin Template</name>
+    <author>Plugin Template</author>
+    <description>Template</description>
+    <keywords>Template</keywords>
+    <license>MIT</license>
+    <engines>
+        <engine name="cordova" version=">=3.0.0"/>
+    </engines>
+</plugin>
